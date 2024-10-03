@@ -1,0 +1,15 @@
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/bin/Debug/net8.0/dateTime
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/bin/Debug/net8.0/dateTime.deps.json
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/bin/Debug/net8.0/dateTime.runtimeconfig.json
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/bin/Debug/net8.0/dateTime.dll
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/bin/Debug/net8.0/dateTime.pdb
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/obj/Debug/net8.0/dateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/obj/Debug/net8.0/dateTime.AssemblyInfoInputs.cache
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/obj/Debug/net8.0/dateTime.AssemblyInfo.cs
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/obj/Debug/net8.0/dateTime.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/obj/Debug/net8.0/dateTime.sourcelink.json
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/obj/Debug/net8.0/dateTime.dll
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/obj/Debug/net8.0/refint/dateTime.dll
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/obj/Debug/net8.0/dateTime.pdb
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/obj/Debug/net8.0/dateTime.genruntimeconfig.cache
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/dateTime/obj/Debug/net8.0/ref/dateTime.dll

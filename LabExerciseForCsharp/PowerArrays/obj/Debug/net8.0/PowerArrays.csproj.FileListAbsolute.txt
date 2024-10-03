@@ -1,0 +1,15 @@
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/bin/Debug/net8.0/PowerArrays
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/bin/Debug/net8.0/PowerArrays.deps.json
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/bin/Debug/net8.0/PowerArrays.runtimeconfig.json
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/bin/Debug/net8.0/PowerArrays.dll
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/bin/Debug/net8.0/PowerArrays.pdb
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/obj/Debug/net8.0/PowerArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/obj/Debug/net8.0/PowerArrays.AssemblyInfoInputs.cache
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/obj/Debug/net8.0/PowerArrays.AssemblyInfo.cs
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/obj/Debug/net8.0/PowerArrays.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/obj/Debug/net8.0/PowerArrays.sourcelink.json
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/obj/Debug/net8.0/PowerArrays.dll
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/obj/Debug/net8.0/refint/PowerArrays.dll
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/obj/Debug/net8.0/PowerArrays.pdb
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/obj/Debug/net8.0/PowerArrays.genruntimeconfig.cache
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/PowerArrays/obj/Debug/net8.0/ref/PowerArrays.dll

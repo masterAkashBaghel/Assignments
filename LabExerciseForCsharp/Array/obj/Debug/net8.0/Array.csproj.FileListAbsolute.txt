@@ -1,0 +1,15 @@
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/bin/Debug/net8.0/Array
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/bin/Debug/net8.0/Array.deps.json
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/bin/Debug/net8.0/Array.runtimeconfig.json
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/bin/Debug/net8.0/Array.dll
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/bin/Debug/net8.0/Array.pdb
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/obj/Debug/net8.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/obj/Debug/net8.0/Array.AssemblyInfoInputs.cache
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/obj/Debug/net8.0/Array.AssemblyInfo.cs
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/obj/Debug/net8.0/Array.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/obj/Debug/net8.0/Array.sourcelink.json
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/obj/Debug/net8.0/Array.dll
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/obj/Debug/net8.0/refint/Array.dll
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/obj/Debug/net8.0/Array.pdb
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/obj/Debug/net8.0/Array.genruntimeconfig.cache
+/Users/admin/Desktop/akashAssign/Assignments/LabExerciseForCsharp/Array/obj/Debug/net8.0/ref/Array.dll
